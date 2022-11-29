@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/uiux-development-assignment/static/css/main.c37bcd9f.css",
+    "main.js": "/uiux-development-assignment/static/js/main.75cec0ce.js",
+    "index.html": "/uiux-development-assignment/index.html",
+    "main.c37bcd9f.css.map": "/uiux-development-assignment/static/css/main.c37bcd9f.css.map",
+    "main.75cec0ce.js.map": "/uiux-development-assignment/static/js/main.75cec0ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c37bcd9f.css",
+    "static/js/main.75cec0ce.js"
+  ]
+}
